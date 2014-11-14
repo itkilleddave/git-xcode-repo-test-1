@@ -24,6 +24,8 @@
     
     //this is my third note, to test how a remote pull overwrites local commit or...?
     
+    //this is my fourth commit
+    
     return YES;
 }
 
