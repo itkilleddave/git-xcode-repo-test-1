@@ -22,6 +22,8 @@
     
     //this is my second note to test commit/push etc
     
+    //this is my third note, to test how a remote pull overwrites local commit or...?
+    
     return YES;
 }
 
