@@ -28,6 +28,8 @@
     
     //this is my fifth commit - testing commit/pull relation again
     
+    //this is my sixth local commit
+    
     return YES;
 }
 
