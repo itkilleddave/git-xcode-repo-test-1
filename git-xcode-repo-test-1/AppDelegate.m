@@ -28,6 +28,7 @@
     
     //this is my fifth commit - testing commit/pull relation again
     
+    //this is a change I made on the remote repo github.com
     //this is my sixth local commit
     
     return YES;
